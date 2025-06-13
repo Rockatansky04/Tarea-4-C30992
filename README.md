@@ -7,3 +7,5 @@ gcc -c main.c -o main.o
 
 2. Enlazar todos los archivos:
 gcc stack.o linked_list.o main.o -o programa
+
+Ademas del stack y el linked_list en c agregue los .h y el main por si acaso. 
